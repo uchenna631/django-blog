@@ -1,0 +1,1 @@
+web: gunicorn uc-codestar2022.wsgi
